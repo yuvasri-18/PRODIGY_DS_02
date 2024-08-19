@@ -1,1 +1,1 @@
-# PRODIGY_DS_02
+Perform data cleaning and exploratory data analysis on a dataset of your choice,such as the titanic dataset from kaggle.explore the relationships between variables and identify patterns and treands in the data
